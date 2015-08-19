@@ -20,7 +20,7 @@
 #include "ddp_dsi.h"
 #include "ddp_log.h"
 #include <mach/mt_gpio.h>
-#include <cust_gpio_usage.h>
+#include "cust_gpio_usage.h"
 #include "ddp_mmp.h"
 
 //static unsigned int _dsi_reg_update_wq_flag = 0;

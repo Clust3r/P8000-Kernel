@@ -16,9 +16,9 @@
 #include <mach/mt_gpio_core.h>
 #include <mach/dcl_sim_gpio.h>
 
-#include <cust_gpio_boot.h>
+#include "cust_gpio_boot.h"
 //#include <mach/gpio_cfg.h>
-#include <gpio_init.h>
+#include "gpio_init.h"
 
 
 /*----------------------------------------------------------------------------*/

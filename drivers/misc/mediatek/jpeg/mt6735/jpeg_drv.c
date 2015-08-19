@@ -29,8 +29,8 @@
 
 #include <asm/io.h>
 
-#include <cmdq_core.h>
-#include <jpeg_cmdq.h>
+#include "cmdq_core.h"
+#include "jpeg_cmdq.h"
 //============================================================
 
 //#include <linux/uaccess.h>
@@ -73,7 +73,7 @@
   #include <mach/mt_boot.h>
 #endif
 
-#include <cmdq_record.h>
+#include "cmdq_record.h"
 
 #ifndef JPEG_DEV
 #include <linux/proc_fs.h>

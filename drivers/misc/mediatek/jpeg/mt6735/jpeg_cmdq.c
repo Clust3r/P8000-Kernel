@@ -1,6 +1,6 @@
-#include <jpeg_cmdq.h>
-#include <cmdq_core.h>
-#include <cmdq_reg.h>
+#include "jpeg_cmdq.h"
+#include "cmdq_core.h"
+#include "cmdq_reg.h"
 
 #include <mach/mt_clkmgr.h>
 
